@@ -1,5 +1,5 @@
 # taskSRE
-Name : Bouabsa Abdel
+Email : bouabsa.ab@gmail.com
 
 Task #1 and #2
 1. How would you structure your Terraform project if you have multiple environments
